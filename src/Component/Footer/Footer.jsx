@@ -9,7 +9,7 @@ export default function Footer() {
     <>
       <footer className="">
         <div className=" container-fluid px-3">
-          <div className=" row justify-content-center  align-items-center">
+          <div className=" row justify-content-center  align-items-center gy-4">
             <div className="col-md-4">
               <div className="footer-section d-flex">
                 <img src={footer} width={75} height={75} alt="" />
