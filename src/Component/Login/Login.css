@@ -47,6 +47,13 @@
   border-radius: 5px;
   font-size: 14px;
 }
+ input:focus{
+  outline: none !important;
+  box-shadow:  0 0 0 0 transparent !important ;
+  border:  1px solid red !important;
+   
+
+}
 
 .password-container {
   position: relative;

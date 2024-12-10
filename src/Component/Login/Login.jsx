@@ -28,11 +28,11 @@ export default function Login() {
                 placeholder="رقم الجوال"
                 className="input-field"
               />
-              <div className="form-outline mb-2 position-relative  ">
+              <div className=" mb-2 position-relative  ">
                 <input
                   type={showPassword ? "text" : "password"}
                   id="password"
-                  className="form-control form-control-lg"
+                  className="input-field"
                   placeholder="الرقم السرى"
                 />
                 <i
