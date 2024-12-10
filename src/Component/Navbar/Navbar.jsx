@@ -81,7 +81,7 @@ export default function Navbar() {
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link fs-4 text-white resgister px-2" to="#">
+                <NavLink className="nav-link fs-4 text-white resgister px-5 " to="#">
                   {" "}
                   تسجيل الدخول
                 </NavLink>
