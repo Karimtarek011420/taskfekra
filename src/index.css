@@ -1,0 +1,26 @@
+body {
+  direction: rtl;
+  text-align: right;
+  font-family: "Tajawal", sans-serif;
+}
+
+a:focus {
+  color: #336279 !important;
+  border-bottom: 1px solid #336279;
+}
+a:active {
+  color: #336279 !important;
+  border-bottom: 1px solid #336279 !important ;
+}
+@media screen and (max-width: 700px) {
+  a:focus {
+    color: #336279 !important;
+    border-bottom: 1px solid #336279;
+    width: fit-content;
+  }
+  a:active {
+    color: #336279 !important;
+    border-bottom: 1px solid #336279 !important ;
+    width: fit-content;
+  }
+}
