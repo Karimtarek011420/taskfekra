@@ -73,7 +73,7 @@ export default function Navbar() {
             <ul className="navbar-nav me-auto mb-2  mx-lg-5 mb-lg-0">
               <li className="nav-item">
                 <NavLink
-                  className="nav-link  fs-4 text-white"
+                  className="nav-link  fs-5 text-white"
                   aria-current="page"
                   to="/login"
                 >
@@ -81,7 +81,7 @@ export default function Navbar() {
                 </NavLink>
               </li>
               <li className="nav-item">
-                <NavLink className="nav-link fs-4 text-white resgister px-3 " to="#">
+                <NavLink className="nav-link fs-5 text-white resgister px-3 " to="#">
                   {" "}
                   تسجيل الدخول
                 </NavLink>
