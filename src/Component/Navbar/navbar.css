@@ -11,7 +11,7 @@
   }
 }
 @media screen and (max-width: 600px) {
-  .navbar-brand  {
-    width: 100px;
+  .navbar-brand  img {
+    width: 100px !important;
   }
 }
