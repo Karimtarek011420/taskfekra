@@ -1,7 +1,7 @@
 
 .resgister {
   background-color: #336279 !important;
-  padding: 10px 15px;
+  padding: 8px 13px !important;
   border-radius: 2px;
 }
 @media screen and (max-width: 700px) {
